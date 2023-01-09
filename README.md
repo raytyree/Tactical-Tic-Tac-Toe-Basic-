@@ -1,5 +1,7 @@
-# Tactical-Tic-Tac-Toe-Basic-
-A Tic Tac Toe game featuring regular Tic Tac Toe and a more complex game, Tactical Tic Tac Toe
+# Tactical Tic Tac Toe-Basic-
+A Tic Tac Toe game featuring regular Tic Tac Toe and a more complex game, Tactical Tic Tac Toe.
+
+Made using JavaSE 16
 
 NOTE: Since Windows CMD does not accept ANSI colors by default, this program is met to be ran in 
 either Eclipse or NetBeans
